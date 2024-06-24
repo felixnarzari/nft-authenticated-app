@@ -1,12 +1,7 @@
-> [!Important]  
-> This repository is outdated and no longer maintained. But we have something better for you!
->
-> Head over to this new repository: [gated-site-example](https://github.com/thirdweb-example/gated-site-example)
-> 
-> The idea is that, once you have got the user's wallet on the server-side, the use cases are not limited to just token-balance checking, you can basically do anything you want.
+
 > 
 
-> [!Important]  
+
 > This repository is referencing the `mumbai` chain.
 > 
 > `Mumbai` [is deprecated since 08/04/2024](https://blog.thirdweb.com/deprecation-of-mumbai-testnet/), meaning the code in this repository will no longer work out of the box.
@@ -243,11 +238,6 @@ We use the `ConnectWallet` component to handle the connection to the user's wall
 - [Video Tutorials](https://youtube.com/thirdweb_)
 - [Blog](https://blog.thirdweb.com)
 
-## Contributing
-
-Contributions and [feedback](https://feedback.thirdweb.com) are always welcome!
-
-Please visit our [open source page](https://thirdweb.com/open-source) for more information.
 
 ## Need help?
 
