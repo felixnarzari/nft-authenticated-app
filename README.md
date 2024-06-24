@@ -239,6 +239,4 @@ We use the `ConnectWallet` component to handle the connection to the user's wall
 - [Blog](https://blog.thirdweb.com)
 
 
-## Need help?
 
-For help, join the [discord](https://discord.gg/thirdweb) or visit our [support page](https://support.thirdweb.com).
